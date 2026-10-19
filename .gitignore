@@ -1,0 +1,20 @@
+# Restricted participant-level datasets
+*.dta
+
+# Statistical analysis logs
+*.log
+*.smcl
+
+# Local data exports
+*.csv
+*.xlsx
+*.xls
+
+# R workspace files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Operating system files
+.DS_Store
+Thumbs.db
